@@ -1,0 +1,22 @@
+.menu{
+    width: 100%;
+    display: grid;
+    background-color: rgb(252, 217, 217);
+    text-align: center;
+    justify-content: center;
+    
+    
+}
+.menu_container{
+    display: block;
+    text-align: center;
+    
+    
+    margin-top: 30px;
+}
+.card{
+    padding: 30px;
+    margin : 30px;
+    
+}
+
